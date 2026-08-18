@@ -1,0 +1,13 @@
+# Brainstorm session state (superpowers)
+.superpowers/
+
+# Raw scraped source material — working files, not the deliverable
+assets/
+
+# Dependencies
+node_modules/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
